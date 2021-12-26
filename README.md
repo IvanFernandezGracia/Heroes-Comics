@@ -58,6 +58,6 @@ https://user-images.githubusercontent.com/48660555/147420685-ffe3ed55-5e6a-46a4-
 Ivan Alejandro Fernandez Gracia  
 :email: ivan.fernandez.g@usach.cl  
 :telephone_receiver: +56-961214718  
-Fullstack & Mobile Developer
+Fullstack & Mobile Developer   
 Mechanical Engineering  
 Universidad de Santiago de Chile
